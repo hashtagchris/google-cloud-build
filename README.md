@@ -1,3 +1,3 @@
 # google-cloud-build
 
-blah blah
+See https://cloud.google.com/cloud-build/docs/quickstart-docker
