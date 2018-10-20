@@ -1,4 +1,4 @@
 #!/bin/sh
 # From https://cloud.google.com/cloud-build/docs/quickstart-docker
 
-echo "Hello, world! The time is $(date)."
+echo "Welcome, welcome, welcome! The time is $(date)."
